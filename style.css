@@ -27,5 +27,14 @@ section{
 }
 .top-banner{
     background-image:url(image/haifcicle.png) ;
-    background-repeat:no-repeat; 
+    background-repeat:no-repeat;
+    padding: 40px; 
+}
+.dream-big{
+    background-image: url(image/haifcicle.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-width img{
+    width: 100%;
 }
